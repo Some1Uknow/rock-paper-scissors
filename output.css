@@ -842,6 +842,10 @@ video {
     gap: 8rem;
   }
 
+  .md\:gap-8 {
+    gap: 2rem;
+  }
+
   .md\:p-8 {
     padding: 2rem;
   }

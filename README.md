@@ -27,6 +27,10 @@ This is a simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. 
 
 ![Game Preview](./public/preview.png)
 
+## Play the game here 
+
+https://some1uknow.github.io/rock-paper-scissors/
+
 ## Getting Started
 
 To run the game locally, follow these steps:
